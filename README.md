@@ -38,6 +38,17 @@ I build clean, scalable solutions end-to-end — from mobile apps used by thousa
 
 ---
 
+### 🏆 Achievements
+
+- 🚀 Built and launched 15+ production-grade apps, including AI-driven SaaS platforms
+- 📱 Published mobile apps with 100K+ downloads on Play Store / App Store
+- ⚡ Architected backend systems serving millions of requests monthly
+- 🏅 Led a team of 8 engineers delivering projects under tight deadlines
+- 📖 Contributed to open-source projects in Flutter and Node.js ecosystems
+- 🛡️ Designed and deployed secure payment integrations with Stripe & PayPal
+
+---
+
 ### 📫 Connect
 - 🌐 [GitHub](https://github.com/wajahatiqbal22)
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
