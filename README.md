@@ -44,8 +44,7 @@ I build clean, scalable solutions end-to-end — from mobile apps used by thousa
 - 📱 Published mobile apps with 100K+ downloads on Play Store / App Store
 - ⚡ Architected backend systems serving millions of requests monthly
 - 🏅 Led a team of 8 engineers delivering projects under tight deadlines
-- 📖 Contributed to open-source projects in Flutter and Node.js ecosystems
-- 🛡️ Designed and deployed secure payment integrations with Stripe & PayPal
+- 📖 Contributed to open-source projects in Flutter, Node.js and the Linux Kernel ecosystems
 
 ---
 
