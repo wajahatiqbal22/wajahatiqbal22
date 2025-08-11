@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Wajahat 👋
 
-<!--
-**wajahatiqbal22/wajahatiqbal22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Software Engineer** | Mobile • Web • Backend • Cloud  
+📍 Pakistan | 🚀 6+ years building production-ready software
 
-Here are some ideas to get you started:
+I build clean, scalable solutions end-to-end — from mobile apps used by thousands to backend platforms handling millions of requests. I’ve led teams, architected complex systems from scratch, and delivered real-world products across multiple domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tech Stack
+
+**Languages & Frameworks:**  
+- Flutter • Kotlin • SwiftUI • ReactJS • NextJS • Node.js • Express • TypeScript • Python • PHP • Laravel  
+- C++ • Java • Dart • JavaScript • HTML5 • CSS3 • TailwindCSS
+
+**Backend & APIs:**  
+- Firebase (Auth, Firestore, Functions) • AWS Lambda • REST • GraphQL • gRPC  
+- WebSockets • Supabase • FastAPI
+
+**Databases:**  
+- PostgreSQL • MySQL • MongoDB • Firestore • Redis • SQLite
+
+**Cloud & DevOps:**  
+- Google Cloud Platform (GCP) • AWS • Firebase Hosting • Docker • Kubernetes • GitHub Actions • CI/CD Pipelines • Fastlane
+
+**Tools & Integrations:**  
+- Stripe • OneSignal • Algolia • Agora • GetStream • Hygraph • SendGrid • Twilio  
+- Jira • Trello • Slack • Postman • Figma
+
+---
+
+### 📈 Highlights
+- Architected **multi-platform AI-driven apps** with real-time features
+- Shipped **enterprise-grade mobile apps** with 100K+ downloads  
+- Designed **high-availability backend systems** (99.99% uptime)  
+- Led agile teams & mentored junior engineers  
+- Strong focus on **security, scalability, and clean code**
+
+---
+
+### 📫 Connect
+- 🌐 [[Portfolio Website]((https://www.linkedin.com/in/wajahat-iqbal-721b13162/))]
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
+- ✉️ **dev.wajahatiqbal@gmail.com** _ **wajahatiqbal22@gmail.com**
+
+---
+_"I love turning ambitious ideas into robust, user-friendly, and scalable products."_
