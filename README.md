@@ -39,7 +39,7 @@ I build clean, scalable solutions end-to-end — from mobile apps used by thousa
 ---
 
 ### 📫 Connect
-- 🌐 [[Portfolio Website]((https://www.linkedin.com/in/wajahat-iqbal-721b13162/))]
+- 🌐 [[Portfolio Website](https://github.com/wajahatiqbal22)
 - 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
 - ✉️ **dev.wajahatiqbal@gmail.com** _ **wajahatiqbal22@gmail.com**
 
